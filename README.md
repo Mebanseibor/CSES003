@@ -39,3 +39,27 @@ A Repository of the training that was attained during the summer term training o
     - const property of a variable
     - Demonstrated taking input and output from the user
     - Demonstrated conditional statements like if, if-else
+    - Demonstrated prefix and postfix operators
+
+### 2025-06-17 (Tuesday)
+- Introduction about Loops:
+    - For loops
+    - Nested loops
+    - Breaks and continue in nested loops
+    - While loop
+    - Do-while loop
+    - Indefinite loops
+
+- Patterns using nested loops
+
+- Switch statements
+
+- Functions:
+    - Order of functions that are being called
+    - Forward declaration
+    - Return functions
+    - Arguments and parameters
+    - Signature of a function
+    - Overloading
+    - Scope
+    - Default values
