@@ -41,6 +41,8 @@ A Repository of the training that was attained during the summer term training o
     - Demonstrated conditional statements like if, if-else
     - Demonstrated prefix and postfix operators
 
+
+
 ### 2025-06-17 (Tuesday)
 - Introduction about Loops:
     - For loops
@@ -63,3 +65,56 @@ A Repository of the training that was attained during the summer term training o
     - Overloading
     - Scope
     - Default values
+
+
+### 2025-06-18 (Wednesday)
+- pass-by-value and pass-by-reference
+
+- Poitners and addresses
+    - Addresses of a variable
+    - Pointers
+    - Dereferencing a pointer
+    - Pointer to a pointer: \*(\*pointer)
+
+- Memory:
+    - Stack memory:
+        - For compile time
+        - Pointers can point to heap memory
+    - Heap Memory:
+        - Bigger in size
+        - For run time
+    - Allocation and deallocation of memory
+    - Dynamic allocation
+
+- Arrays:
+    - Index
+
+- Intro to Generics
+
+- Vectors:
+    - Inserting
+    - Accessing
+    - Iterating
+    - Removing
+
+- Map:
+    - Intro to maps
+    - Keys and values
+    - Operations:
+        - Inserting
+        - Updating
+        - Displaying the size
+        - Iterating throught the key and value pairs
+
+---
+## Links
+- Learn more about CPP:
+    - Official Website: [c++][weblink-cplusplus-website]
+
+
+---
+
+
+
+<!-- links -->
+[weblink-cplusplus-website]: https://cplusplus.com/
