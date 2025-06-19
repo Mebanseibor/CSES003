@@ -106,10 +106,41 @@ A Repository of the training that was attained during the summer term training o
         - Displaying the size
         - Iterating throught the key and value pairs
 
+
+
+### 2025-06-19 (Thursday)
+- Classes and objects:
+    - Data members
+    - Member function
+    - Size of an object
+    - Access Specifiers
+    - Operations:
+        - Creating an object
+        - Updating the value of an object
+        - Calling member functions
+        - Access private members
+        - Constructor:
+            - Default constructor
+            - Parameterized constructor
+
+- Arrays:
+    - Operations:
+        - Declaration
+        - Initialization
+        - Index and position
+        - Iteration
+        - Input from the user
+        - Passing an array to a function
+
+
 ---
+
+
+
 ## Links
 - Learn more about CPP:
     - Official Website: [c++][weblink-cplusplus-website]
+
 
 
 ---
