@@ -133,6 +133,18 @@ A Repository of the training that was attained during the summer term training o
         - Passing an array to a function
 
 
+
+### 2025-06-20 (Friday)
+- Array:
+    - Finding the minimum and maximum numbers in an array
+        - [Find the hightest altitude][weblink-leetcode-1732]
+    - Finding the sum of even and odd numbers in an array
+    - Reverse and array
+    - Find the second largest number in an array
+    - Find the first repeating element
+    - Check if the array is sorted or not
+
+
 ---
 
 
@@ -149,3 +161,4 @@ A Repository of the training that was attained during the summer term training o
 
 <!-- links -->
 [weblink-cplusplus-website]: https://cplusplus.com/
+[weblink-leetcode-1732]: https://leetcode.com/problems/find-the-highest-altitude/
