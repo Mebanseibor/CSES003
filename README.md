@@ -143,6 +143,24 @@ A Repository of the training that was attained during the summer term training o
     - Find the second largest number in an array
     - Find the first repeating element
     - Check if the array is sorted or not
+    - Find the occurence of ones and zeroes in an array
+    - Find the number of elements that are greater than a given number
+
+
+
+### 2025-06-23 (Monday)
+- Array:
+    - Linear Searching in an array
+    - Sorting an array
+        - Selection sort
+        - Bubble sort
+        - Insertion sort
+
+- Introduction to time-and-space complexity:
+    - Relation between time-complexity and constants
+    - Relation between time-complexity and loops:
+        - Between unnested loop
+        - Between nested loops and time complexity
 
 
 ---
