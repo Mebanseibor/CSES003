@@ -137,7 +137,7 @@ A Repository of the training that was attained during the summer term training o
 ### 2025-06-20 (Friday)
 - Array:
     - Finding the minimum and maximum numbers in an array
-        - [Find the hightest altitude][weblink-leetcode-1732]
+        - [Find the hightest altitude][wl-leetcode-1732]
     - Finding the sum of even and odd numbers in an array
     - Reverse and array
     - Find the second largest number in an array
@@ -156,11 +156,31 @@ A Repository of the training that was attained during the summer term training o
         - Bubble sort
         - Insertion sort
 
-- Introduction to time-and-space complexity:
-    - Relation between time-complexity and constants
-    - Relation between time-complexity and loops:
+- Introduction to time and space complexity:
+    - Relation between time complexity and constants
+    - Relation between time complexity and loops:
         - Between unnested loop
-        - Between nested loops and time complexity
+        - Between nested loops
+
+
+
+### 2025-06-24 (Tuesday)
+- Time and space complexity
+    - Briefly evaluated: `O(n)`, `O(n^2)`, `O(n^3)`, `O(log(n))`, `O(n log(n))`, `O(2^n)`
+    - Space complexity
+
+- Searching:
+    - Binary Search
+        - Seaching the first orrurrence of an element in a sorted array
+        - Seaching the last orrurrence of an element in a sorted array
+        - Seaching the first and last orrurrence of an element in a sorted array
+        - Seaching the total orrurrence of an element in a sorted array
+
+- LeetCode:
+    - [Two Sum][wl-leetcode-0001]
+    - [Missing Number][wl-leetcode-0268]
+    - [Best Time to Buy and Sell Stock][wl-leetcode-0121]
+
 
 
 ---
@@ -169,8 +189,14 @@ A Repository of the training that was attained during the summer term training o
 
 ## Links
 - Learn more about CPP:
-    - Official Website: [c++][weblink-cplusplus-website]
+    - Official Website: [c++][wl-cplusplus-website]
 
+
+### LeetCode Questions:
+- [Two Sum][wl-leetcode-0001]
+- [Missing Number][wl-leetcode-0268]
+- [Best Time to Buy and Sell Stock][wl-leetcode-0121]
+- [Find the hightest altitude][wl-leetcode-1732]
 
 
 ---
@@ -178,5 +204,8 @@ A Repository of the training that was attained during the summer term training o
 
 
 <!-- links -->
-[weblink-cplusplus-website]: https://cplusplus.com/
-[weblink-leetcode-1732]: https://leetcode.com/problems/find-the-highest-altitude/
+[wl-cplusplus-website]: https://cplusplus.com/
+[wl-leetcode-0001]: https://leetcode.com/problems/two-sum/
+[wl-leetcode-0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[wl-leetcode-0268]: https://leetcode.com/problems/missing-number/
+[wl-leetcode-1732]: https://leetcode.com/problems/find-the-highest-altitude/
