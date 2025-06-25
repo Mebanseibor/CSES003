@@ -183,6 +183,15 @@ A Repository of the training that was attained during the summer term training o
 
 
 
+### 2025-06-25 (Wednesday)
+- LeetCode:
+    - [Maximum Subarray][wl-leetcode-0053]
+    - [Remove Duplicates from Sorted Array][wl-leetcode-0026]
+    - [Sort Colors][wl-leetcode-0075]
+    - [Koko Eating Bananas][wl-leetcode-0875]
+
+
+
 ---
 
 
@@ -194,8 +203,12 @@ A Repository of the training that was attained during the summer term training o
 
 ### LeetCode Questions:
 - [Two Sum][wl-leetcode-0001]
+- [Remove Duplicates from Sorted Array][wl-leetcode-0026]
+- [Maximum Subarray][wl-leetcode-0053]
+- [Sort Colors][wl-leetcode-0075]
 - [Missing Number][wl-leetcode-0268]
 - [Best Time to Buy and Sell Stock][wl-leetcode-0121]
+- [Koko Eating Bananas][wl-leetcode-0875]
 - [Find the hightest altitude][wl-leetcode-1732]
 
 
@@ -206,6 +219,10 @@ A Repository of the training that was attained during the summer term training o
 <!-- links -->
 [wl-cplusplus-website]: https://cplusplus.com/
 [wl-leetcode-0001]: https://leetcode.com/problems/two-sum/
+[wl-leetcode-0026]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[wl-leetcode-0053]: https://leetcode.com/problems/maximum-subarray/
+[wl-leetcode-0075]: https://leetcode.com/problems/sort-colors/
 [wl-leetcode-0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [wl-leetcode-0268]: https://leetcode.com/problems/missing-number/
+[wl-leetcode-0875]: https://leetcode.com/problems/koko-eating-bananas/
 [wl-leetcode-1732]: https://leetcode.com/problems/find-the-highest-altitude/
