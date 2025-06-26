@@ -192,6 +192,25 @@ A Repository of the training that was attained during the summer term training o
 
 
 
+### 2025-06-26 (Thursday)
+- 2D Arrays/Matrix:
+    - Operations:
+        - Declaring
+        - Initiating
+        - Taking input from the user
+        - Sum of rows and columns
+        - Traversal:
+            - Row-wise
+            - Column-wise
+            - Wave traversal
+            - Spiral traversal
+
+- Recursion:
+    - Practice problems:
+        - Factorial of a given number
+        - Printing natural numbers from n to 1
+
+
 ---
 
 
