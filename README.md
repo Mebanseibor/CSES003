@@ -211,6 +211,28 @@ A Repository of the training that was attained during the summer term training o
         - Printing natural numbers from n to 1
 
 
+
+### 2025-06-27 (Friday)
+- Recursion:
+    - Fibonacci Series
+    - Counting the distinct ways to climb n steps in a staircase
+    - Checking if an array is sorted or not
+    - Sum of an array
+    - Seaching an element in the array:
+        - Linear search
+        - Binary search
+
+- Strings and character sequence:
+    - Null character: `\0`
+    - Reverse words
+
+- Leetcode:
+    - [Valid Palindrome][wl-leetcode-0125]
+    - [Reverse Words in a String][wl-leetcode-0151]
+    - [Longest Substring Without Repeating Characters][wl-leetcode-0003]
+
+
+
 ---
 
 
@@ -222,11 +244,14 @@ A Repository of the training that was attained during the summer term training o
 
 ### LeetCode Questions:
 - [Two Sum][wl-leetcode-0001]
+- [Longest Substring Without Repeating Characters][wl-leetcode-0003]
 - [Remove Duplicates from Sorted Array][wl-leetcode-0026]
 - [Maximum Subarray][wl-leetcode-0053]
 - [Sort Colors][wl-leetcode-0075]
-- [Missing Number][wl-leetcode-0268]
 - [Best Time to Buy and Sell Stock][wl-leetcode-0121]
+- [Valid Palindrome][wl-leetcode-0125]
+- [Reverse Words in a String][wl-leetcode-0151]
+- [Missing Number][wl-leetcode-0268]
 - [Koko Eating Bananas][wl-leetcode-0875]
 - [Find the hightest altitude][wl-leetcode-1732]
 
@@ -238,10 +263,13 @@ A Repository of the training that was attained during the summer term training o
 <!-- links -->
 [wl-cplusplus-website]: https://cplusplus.com/
 [wl-leetcode-0001]: https://leetcode.com/problems/two-sum/
+[wl-leetcode-0003]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [wl-leetcode-0026]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [wl-leetcode-0053]: https://leetcode.com/problems/maximum-subarray/
 [wl-leetcode-0075]: https://leetcode.com/problems/sort-colors/
 [wl-leetcode-0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[wl-leetcode-0125]: https://leetcode.com/problems/valid-palindrome/
+[wl-leetcode-0151]: https://leetcode.com/problems/reverse-words-in-a-string/
 [wl-leetcode-0268]: https://leetcode.com/problems/missing-number/
 [wl-leetcode-0875]: https://leetcode.com/problems/koko-eating-bananas/
 [wl-leetcode-1732]: https://leetcode.com/problems/find-the-highest-altitude/
